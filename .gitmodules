@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ERA5Flux"]
+	path = ERA5Flux
+	url = https://github.com/malone-disturbance-ecology-lab/era5flux
